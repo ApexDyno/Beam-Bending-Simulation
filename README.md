@@ -126,7 +126,7 @@ For N = 250, L = 1, EI vary between [20, 30, 40, 50, 100, 500, 1000, 2000], P(Fo
 
 **Output Plot**:
 ```bash
-For N = 250, L = 1, EI = 2000, P(Force) = -100.0, w(Relaxation Fcator)  = 0.5, init_guess as uniform, dv_dx_at_firstPoint as FD2
+For N = 250, L = 1, EI = 2000, P(Force) = -100.0 and W(UCL) = -100.0, w(Relaxation Fcator)  = 0.5, init_guess as uniform, dv_dx_at_firstPoint as FD2
 ```
 1. Plot for NR (Point & Continous Load) and Euler (Point & Continous Load):
    
@@ -190,7 +190,7 @@ For N = 250, L = 1, EI = 2000, P(Force) = -100.0, w(Relaxation Fcator)  = 0.5, i
 **Output Plot**:
 
 ```bash
-For N = 250, L = 1, EI = 2000, P(Force) = -100.0, w(Relaxation Fcator)  = 0.5, init_guess as uniform, dv_dx_at_firstPoint as FD2
+For N = 250, L = 1, EI = 2000, P(Force) = -100.0 and W(UCL) = -100.0, w(Relaxation Fcator)  = 0.5, init_guess as uniform, dv_dx_at_firstPoint as FD2
 ```
 1. Plot for NR (Point & Continous Load) and Euler (Point & Continous Load):
    
