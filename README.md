@@ -109,7 +109,7 @@ For N = 250, L = 1, EI vary between [20, 30, 40, 50, 100, 500, 1000, 2000], P(Fo
 
 2. Difference with EI Variation (At the Free End) vs Flexural Rigidity (EI):
    
-![Image](https://github.com/user-attachments/assets/4621eef4-3e99-4c4a-9366-3e020c813df5)
+![Image](https://github.com/user-attachments/assets/a7473d0b-bc80-42fb-ae2b-b48e357bae01)
 
 
 ---
